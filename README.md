@@ -24,3 +24,5 @@ you can find the queries that i use for each diagram in the "queries.sql" file
 3- AI model to predict whether a user is engaging in promo code abuse
 First i just explore the data in "Explore.ipynb" Notebook. I noticed most of abusers not verified both Email and phone. 
 Next "Final_model.ipynb" contains the details of the model and the testing part 
+
+4- Just created a flask app and for deployment i planned to use cloud run but i couldn't for the sake of time
