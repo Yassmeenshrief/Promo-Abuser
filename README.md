@@ -15,3 +15,8 @@ will handle data validation and cleaning in this step
 Fully managed and serverless.
 Scalable, with fast query performance using Dremel technology.
 Supports SQL-like syntax and integration with other Google Cloud services.
+
+2- Dashboard
+Dashboard link: https://lookerstudio.google.com/reporting/bcef2b7a-1e1c-42d9-b6d5-f2c67863d2c8
+I used data studio as i use GCP and bigquery for storing and alayzing data. "there was more things i wish i know to add in visuals but it can be more better"
+you can find the queries that i use for each diagram in the "queries.sql" file
