@@ -27,4 +27,4 @@ Next "Final_model.ipynb" contains the details of the model and the testing part
 
 4- Just created a flask app and for deployment i planned to use cloud run but i couldn't for the sake of time.
 
-5- We can add Cloud monitors and alerts to monitor the pipeline and detect errors or failures.
+5- We can add Cloud monitors and alerts to monitor and detect errors or failures in the pipeline.
