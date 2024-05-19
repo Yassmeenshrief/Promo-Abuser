@@ -20,3 +20,7 @@ Supports SQL-like syntax and integration with other Google Cloud services.
 Dashboard link: https://lookerstudio.google.com/reporting/bcef2b7a-1e1c-42d9-b6d5-f2c67863d2c8
 I used data studio as i use GCP and bigquery for storing and alayzing data. "there was more things i wish i know to add in visuals but it can be more better"
 you can find the queries that i use for each diagram in the "queries.sql" file
+
+3- AI model to predict whether a user is engaging in promo code abuse
+First i just explore the data in "Explore.ipynb" Notebook. I noticed most of abusers not verified both Email and phone. 
+Next "Final_model.ipynb" contains the details of the model and the testing part 
